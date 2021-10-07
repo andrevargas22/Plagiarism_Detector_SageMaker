@@ -4,7 +4,10 @@ This is the second project of the Machine Learning Engineer Nanodegree by Udacit
 
 The Plagiarism Detector examines a text file and performs binary classification, labeling that file as either *plagiarized* or *not*, depending on how similar that text file is to a provided source text. 
 
-This project is broken down into two main notebooks:
+This project is broken down into three main notebooks:
+
+**Notebook 1: Data Exploration**
+* Not mandatory for the exercise and therefore not present on this repo
 
 **Notebook 2: Feature Engineering**
 
